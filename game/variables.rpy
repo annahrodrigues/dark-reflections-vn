@@ -9,3 +9,4 @@ default doakes_suspicion = 0
 default current_episode = 1
 
 default player_name = "Dexter"
+default evidence_found = False

@@ -3,16 +3,14 @@
 # Character Definitions
 # ==========================================
 
-define narrator = Character(None)
-
-define dexter = Character("Dexter")
-define rita = Character("Rita")
-define brian = Character("Brian")
-define doakes = Character("Doakes")
-define deb = Character("Debra")
-define batista = Character("Batista")
-define masuka = Character("Masuka")
-define laguerta = Character("LaGuerta")
-define harry = Character("Harry")
-define miguel = Character("Miguel")
-define lila = Character("Lila")
+define d = Character("Dexter")
+define r = Character("Rita")
+define b = Character("Brian")
+define dk = Character("Doakes")
+define db = Character("Debra")
+define ba = Character("Batista")
+define m = Character("Masuka")
+define lg = Character("LaGuerta")
+define h = Character("Harry")
+define mg = Character("Miguel")
+define l = Character("Lila")

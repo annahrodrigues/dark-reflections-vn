@@ -1,11 +1,22 @@
+###################################################
+# DARK REFLECTIONS
+#
+# Episode 01
+# Title: Normal
+###################################################
+
 label episode01:
 
-    scene black with fade
+    scene black
 
-    narrator "Dark Reflections"
+    "Miami."
 
-    narrator "Episode One"
+    "Most people only see the surface."
 
-    narrator "Build 0.0.2"
+    "I work beneath it."
+
+    d "My name is Dexter Morgan."
+
+    d "Blood tells the truth."
 
     return
